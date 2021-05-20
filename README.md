@@ -4,13 +4,13 @@
 
 ### Local Computer Club Hardbrücke
 https://t.me/joinchat/n3sM2AN_MhgzZGM0
-Notes: Electro Club / Tech / Club
+>Notes: Electro Club / Tech / Club
 
 
 ### CCC 
 https://www.ccc-ch.ch
-Hacking Clubnetwork 
+>Hacking Clubnetwork 
 
 ### CCC Basel
 ccc-basel.ch
-Hacking Clubnetwork
+>Hacking Clubnetwork
